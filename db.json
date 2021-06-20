@@ -1,0 +1,38 @@
+{
+    "cars": [
+        {
+            "id": 0,
+            "model": "PRO RS3",
+            "engine": [
+                "5.2L 532BHP",
+                "4.2L 443BHP",
+                "3.6L 374BHP",
+                "2.0L 166BHP"
+            ]
+        },
+        {
+            "id": 1,
+            "model": "UBER RS2",
+            "engine": [
+                "4.2L 443BHP",
+                "3.6L 374BHP",
+                "2.0L 166BHP"
+            ]
+        },
+        {
+            "id": 2,
+            "model": "STANDARD",
+            "engine": [
+                "3.6L 374BHP",
+                "2.0L 166BHP"
+            ]
+        },
+        {
+            "id": 3,
+            "model": "WK",
+            "engine": [
+                "2.0L 166BHP"
+            ]
+        }
+    ]
+}
